@@ -60,15 +60,15 @@ Feature matrix shape:
 ## **5. Model Training & Evaluation**
 Three ML models were trained:
 
-### ✅ **1. Multinomial Naive Bayes**
+### **1. Multinomial Naive Bayes**
 - **Accuracy:** 0.9710
 - Excellent recall for ham; moderate recall for spam.
 
-### ✅ **2. Logistic Regression**
+### **2. Logistic Regression**
 - **Accuracy:** 0.9565
 - High precision but lower recall for spam.
 
-### 🌟 **3. Support Vector Machine (SVM)** *(Best Model)*
+### **3. Support Vector Machine (SVM)** *(Best Model)*
 - **Accuracy:** 0.9807
 - Highest overall performance
 - Best spam detection capability
