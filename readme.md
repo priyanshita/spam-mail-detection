@@ -72,7 +72,7 @@ Prediction: HAM (Confidence: 99.43%)
 
 ---
 
-## 👤 Author
+## Author
 This README accompanies your notebook and report for the Spam Mail Detection project.
 
-If you'd like an even more polished or professional version, feel free to ask!
+
